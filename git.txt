@@ -1,0 +1,61 @@
+ls
+--enlista los directorios y archivos
+
+pwd
+--ver en que ruta de nuestro sistema esta posicionado el terminal
+
+git init
+--inicia un proyecto nuevo
+
+git status
+--ver los estados de tus archivos
+
+git add
+--agrega un archivo al staging area
+
+git commit
+--crea un primer punto de control de nuestro codigo
+ 
+
+git config --global user.email
+--configura el email de un usuario
+
+:wq
+--una vex que entro a BIN 
+
+git log
+--para ver todos los commit que he creado
+
+git checkout -- nombre_archivo
+--revierte los cambios del archivo
+
+git diff nombre_archivo
+--ver las diferencias hechas en los archivos
+
+escoge la primera la casa de sierra
+
+Otavalo province
+
+it has a cold climate perfect to visit
+
+you can see beautiful landscapes
+you can know mountains
+you can wear warm clothes
+
+
+If you want to know Ecuador in addition to its beaches, knowing the mountains would be a perfect idea
+
+introduccion:
+My idea of ​​a great vacation would be to visit the city of Quito since I really like the cold
+
+reason1:
+you can see beautiful landscapes
+
+reason2:
+you can know mountains
+
+reason 3:
+you can wear warm clothes
+
+conclution: 
+If you want to know Ecuador in addition to its beaches, knowing the mountains would be a perfect idea
